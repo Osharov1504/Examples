@@ -1,0 +1,15 @@
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\bin\Debug\net6.0\Example001_Hellowconsole.exe
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\bin\Debug\net6.0\Example001_Hellowconsole.deps.json
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\bin\Debug\net6.0\Example001_Hellowconsole.runtimeconfig.json
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\bin\Debug\net6.0\Example001_Hellowconsole.dll
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\bin\Debug\net6.0\Example001_Hellowconsole.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.csproj.AssemblyReference.cache
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.AssemblyInfoInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.AssemblyInfo.cs
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.csproj.CoreCompileInputs.cache
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.dll
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\refint\Example001_Hellowconsole.dll
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.pdb
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\Example001_Hellowconsole.genruntimeconfig.cache
+C:\Users\oshar\OneDrive\Рабочий стол\Examples\Example001_Hellowconsole\obj\Debug\net6.0\ref\Example001_Hellowconsole.dll
